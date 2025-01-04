@@ -1,0 +1,349 @@
+{
+  "wallpapers": [
+    {
+      "event": "911",
+      "description": "The September 11 terrorist attacks in New York City that resulted in the collapse of the World Trade Center towers, marking a pivotal moment in modern history and leading to significant global changes",
+      "time": {
+        "year": 2001,
+        "month": 9,
+        "day": 11,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 40.7118,
+        "longitude": 74.0131
+      },
+      "wallpapers": ["911_1.png", "911_2.png"]
+    },
+    {
+      "event": "Iraq War",
+      "description": "The military campaign launched by the United States and its allies against Iraq, beginning with the invasion of Baghdad and leading to a prolonged conflict that reshaped Middle Eastern politics",
+      "time": {
+        "year": 2003,
+        "month": 3,
+        "day": 20,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 33.2232,
+        "longitude": 43.6793
+      },
+      "wallpapers": ["iraq_war.png", "fallujah.png"]
+    },
+    {
+      "event": "Death of General Wolfe",
+      "description": "The historic moment captured in Benjamin West's famous painting depicting the death of British General James Wolfe during the Battle of Quebec in 1759, a pivotal moment in the Seven Years' War",
+      "time": {
+        "year": 1730,
+        "month": 1,
+        "day": 1,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 46.5297,
+        "longitude": -74.1577
+      },
+      "wallpapers": ["death_of_general_wolfe.png"]
+    },
+    {
+      "event": "1980s Ireland",
+      "description": "A period of intense political and social conflict in Northern Ireland known as 'The Troubles', marked by civil unrest and tensions between nationalist and unionist communities",
+      "time": {
+        "year": 1975,
+        "month": 1,
+        "day": 1,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 53.7798,
+        "longitude": 7.3055
+      },
+      "wallpapers": ["join_the_ira.png"]
+    },
+    {
+      "event": "Great Siege of Malta",
+      "description": "The era of the Knights of St. John in Malta, featuring the Great Siege of 1565 when the Knights and Maltese people successfully defended the island against Ottoman invasion",
+      "time": {
+        "year": 1500,
+        "month": 1,
+        "day": 1,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 35.8919,
+        "longitude": 14.3754
+      },
+      "wallpapers": ["malta.png"]
+    },
+    {
+      "event": "Unification of Germany",
+      "description": "The Belle Époque period in Paris, characterized by cultural innovation, artistic achievement, and technological progress, including the construction of the Eiffel Tower and the flourishing of impressionist art",
+      "time": {
+        "year": 1871,
+        "month": 1,
+        "day": 18,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 48.8575,
+        "longitude": 2.3514
+      },
+      "wallpapers": ["unification_of_germany.png"]
+    },
+    {
+      "event": "Russo-Ukrainian War",
+      "description": "A period of political transformation in Ukraine, including the Orange Revolution's aftermath and growing tensions with Russia, setting the stage for future regional conflicts",
+      "time": {
+        "year": 2014,
+        "month": 2,
+        "day": 27,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 48.3974,
+        "longitude": 31.1656
+      },
+      "wallpapers": ["ukraine_war.png"]
+    },
+    {
+      "event": "Wood Stock",
+      "description": "The legendary Woodstock Music & Art Fair of 1969, a defining moment of the 1960s counterculture movement that brought together hundreds of thousands for three days of peace, music, and social revolution",
+      "time": {
+        "year": 1969,
+        "month": 8,
+        "day": 15,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 41.701,
+        "longitude": -74.88
+      },
+      "wallpapers": ["wood_stock.png"]
+    },
+    {
+      "event": "Battle of Königgrätz",
+      "description": "A decisive battle of the Austro-Prussian War where Prussian forces under Helmuth von Moltke defeated the Austrian army led by Ludwig von Benedek, establishing Prussia as the dominant German power and marking a turning point in German unification",
+      "time": {
+        "year": 1866,
+        "month": 7,
+        "day": 3,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 50.2091,
+        "longitude": 15.8322
+      },
+      "wallpapers": ["battle_of_Koniggratz.png"]
+    },
+    {
+      "event": "Battle of Waterloo",
+      "description": "The final defeat of French military leader and emperor Napoleon Bonaparte, who was beaten by combined British and Prussian forces under the Duke of Wellington and Gebhard von Blücher, effectively ending his rule as Emperor of the French",
+      "time": {
+        "year": 1815,
+        "month": 6,
+        "day": 18,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 50.678,
+        "longitude": 4.4122
+      },
+      "wallpapers": ["battle_of_waterloo.png"]
+    },
+    {
+      "event": "Kapp Putsch",
+      "description": "An attempted coup d'état against the German Weimar Republic government by right-wing nationalist Wolfgang Kapp and his supporters, which failed due to a general strike by organized labor",
+      "time": {
+        "year": 1920,
+        "month": 3,
+        "day": 13,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 52.52,
+        "longitude": 13.375
+      },
+      "wallpapers": ["kapp_putsch.png"]
+    },
+    {
+      "event": "Hundred Years' War",
+      "description": "A series of conflicts between England and France that lasted from 1337 to 1453, marked by significant battles like Agincourt and Crécy, and shaped by figures such as Joan of Arc and Henry V",
+      "time": {
+        "year": 1337,
+        "month": 5,
+        "day": 24,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 47.0,
+        "longitude": 2.0
+      },
+      "wallpapers": ["100_years_war.png"]
+    },
+    {
+      "event": "Boston Massacre",
+      "description": "A confrontation between British troops and colonial civilians on March 5, 1770, that resulted in the deaths of five colonists and became a pivotal event leading to the American Revolution",
+      "time": {
+        "year": 1770,
+        "month": 3,
+        "day": 5,
+        "era": "BCE"
+      },
+      "location": {
+        "latitude": 38.9637,
+        "longitude": 35.2433
+      },
+      "wallpapers": ["boston_massacre.png"]
+    },
+    {
+      "event": "First Youtube Video",
+      "description": "The upload of 'Me at the zoo', an 18-second video posted by YouTube co-founder Jawed Karim at the San Diego Zoo, marking the beginning of the world's largest video-sharing platform",
+      "time": {
+        "year": 2005,
+        "month": 4,
+        "day": 25,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 40.7069,
+        "longitude": 74.0113
+      },
+      "wallpapers": ["first_youtube_video.png"]
+    },
+    {
+      "event": "Laugh Factory Incident",
+      "description": "A controversial performance by comedian Michael Richards at the Laugh Factory comedy club in Los Angeles, where his racist outburst during a stand-up routine sparked national outrage and debate",
+      "time": {
+        "year": 2006,
+        "month": 11,
+        "day": 17,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 34.098,
+        "longitude": -118.364472
+      },
+      "wallpapers": ["laugh_factory.png"]
+    },
+    {
+      "event": "Moon Landing",
+      "description": "The historic launch of Apollo 11 from Kennedy Space Center, leading to the first human landing on the Moon and Neil Armstrong's famous first steps on the lunar surface four days later",
+      "time": {
+        "year": 1969,
+        "month": 7,
+        "day": 16,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 28.3922,
+        "longitude":  80.6077
+      },
+      "wallpapers": ["moon_landing.png"]
+    },
+    {
+      "event": "Write Brothers First Flight",
+      "description": "The revolutionary first sustained flight of a powered, controlled aircraft by Orville and Wilbur Wright at Kill Devil Hills near Kitty Hawk, North Carolina, marking the birth of modern aviation",
+      "time": {
+        "year": 1903,
+        "month": 12,
+        "day": 17,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 36.06462,
+        "longitude":  75.7057
+      },
+      "wallpapers": ["write_brothers_first_flight.png"]
+    },
+    {
+      "event": "Twilight Zone Accident",
+      "description": "A tragic helicopter crash during the filming of 'Twilight Zone: The Movie' that resulted in the deaths of actor Vic Morrow and two child actors, leading to major changes in film safety regulations",
+      "time": {
+        "year": 1982,
+        "month": 7,
+        "day": 23,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 34.424028,
+        "longitude": -118.636472
+      },
+      "wallpapers": ["twilight_zone_accident.png"]
+    },
+    {
+      "event": "Big Fella 5 on Better Picture",
+      "description": "Info unclear",
+      "time": {
+        "year": 2024,
+        "month": 1,
+        "day": 3,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 69.420,
+        "longitude": -69.420
+      },
+      "wallpapers": ["podcast.png"]
+    },
+    {
+      "event": "Last Known Images of Princess Diana",
+      "description": "The final photographs taken of Princess Diana leaving the Ritz Hotel in Paris with Dodi Fayed, hours before the tragic car crash in the Pont de l'Alma tunnel that claimed their lives",
+      "time": {
+        "year": 1997,
+        "month": 8,
+        "day": 31,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 48.863500,
+        "longitude": 2.301800
+      },
+      "wallpapers": ["princess_diana.png"]
+    },
+    {
+      "event": "Murder Trial of O.J. Simpson",
+      "description": "The highly publicized criminal trial of former NFL star O.J. Simpson for the murders of Nicole Brown Simpson and Ron Goldman, which became known as 'The Trial of the Century'",
+      "time": {
+        "year": 1995,
+        "month": 1,
+        "day": 24,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 34.048,
+        "longitude": -118.47
+      },
+      "wallpapers": ["murder_trial_oj.png"]
+    },
+    {
+      "event": "Killing of Osama bin Laden",
+      "description": "The U.S. military operation (Operation Neptune Spear) that resulted in the death of al-Qaeda leader Osama bin Laden in Abbottabad, Pakistan",
+      "time": {
+        "year": 2011,
+        "month": 7,
+        "day": 2,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 38.8977,
+        "longitude": 77.0365
+      },
+      "wallpapers": ["osama_bin_laden.png"]
+    },
+    {
+      "event": "Release of Windows XP",
+      "description": "The windows xp background is said to be the most viewed wallpaper in the world",
+      "time": {
+        "year": 2001,
+        "month": 10,
+        "day": 25,
+        "era": "CE"
+      },
+      "location": {
+        "latitude": 47.6458,
+        "longitude": 122.1320
+      },
+      "wallpapers": ["windows_xp_bliss.png"]
+    }
+  ]
+}

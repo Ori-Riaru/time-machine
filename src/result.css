@@ -1,0 +1,27 @@
+.window-body {
+    flex-direction: row;
+}
+
+#image {
+    margin: 8px;
+    margin-top: 6px;
+    flex: 1;
+    width: 100%;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    overflow: hidden;
+}
+
+
+#info {
+    width: 150px;
+    overflow-x: clip;
+    overflow-y:auto;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

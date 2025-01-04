@@ -1,0 +1,23 @@
+
+
+#terminal-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    padding: 0;
+}
+
+#terminal {
+    padding: 20px;
+    height: 100%;
+    overflow-y: scroll;
+    width: 100%;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: monospace;
+}
+
+fieldset{
+    overflow: clip;
+}

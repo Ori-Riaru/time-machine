@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="/src/styles.css" />
+  <link rel="stylesheet" href="/src/control.css" />
+  <link rel="stylesheet" href="/src/xp.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Time Travel v1.3</title>
+  <script src="/src/main.ts" type="module" defer></script>
+  <script src="/src/control.ts" type="module" defer></script>
+</head>
+
+<div class="window">
+  <div data-tauri-drag-region class="title-bar">
+    <div class="title-bar-text">Time Travel v1.3</div>
+    <div class="title-bar-controls">
+      <button id="titlebar-minimize" aria-label="Minimize"></button>
+      <button id="titlebar-maximize" aria-label="Maximize"></button>
+      <button id="titlebar-close" aria-label="Close"></button>
+    </div>
+  </div>
+  <div class="window-body">
+    <div id="portrait"></div>
+
+    <fieldset id="settings-panel" class="options-panel">
+      <legend>Settings</legend>
+
+      <div id="date" class="field-row-stacked">
+        <label for="date">Date</label>
+        <div>
+          <label for="day" value="1">D</label>
+          <select id="day">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+            <option>9</option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+            <option>13</option>
+            <option>14</option>
+            <option>15</option>
+            <option>16</option>
+            <option>17</option>
+            <option>18</option>
+            <option>19</option>
+            <option>20</option>
+            <option>21</option>
+            <option>22</option>
+            <option>23</option>
+            <option>24</option>
+            <option>25</option>
+            <option>26</option>
+            <option>27</option>
+            <option>28</option>
+            <option>29</option>
+            <option>30</option>
+          </select>
+          <label for="month" value="1">M</label>
+          <select id="month">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+            <option>9</option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+          </select>
+          <label for="year">Y</label>
+          <input id="year" type="text" value="2024" />
+          <select id="era">
+            <option>CE</option>
+            <option>AD</option>
+            <option>BC</option>
+            <option>BCE</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="sqwimble-cell" class="field-row-stacked">
+        <label for="year">Sqwimble</label>
+        <div>
+          <input id="sqwimble" type="range" min="1" max="553" value="5" list="markers" />
+          <div style="display: flex; justify-content: space-between">
+            <label for="sqwimble">1</label>
+            <label for="sqwimble">553</label>
+          </div>
+        </div>
+      </div>
+
+      <div id="location" class="field-row-stacked">
+        <label for="location-cell">Location</label>
+
+        <div>
+          <label for="latitude">Lat.</label>
+          <input id="latitude" type="text" value="37.7749" />
+
+          <label for="longitude">Long.</label>
+          <input id="longitude" type="text" value="-122.4194" />
+        </div>
+      </div>
+
+      <div id="checks" class="field-row-stacked">
+        <label style="visibility: hidden">spacer</label>
+        <input checked type="checkbox" id="deterministic">
+        <label for="deterministic">Deterministic</label>
+
+        <input checked type="checkbox" id="assume">
+        <label for="assume">Assume Form</label>
+      </div>
+
+      <button id="start">Start</button>
+    </fieldset>
+  </div>
+</div>
+
+
+</body>
+
+</html>
