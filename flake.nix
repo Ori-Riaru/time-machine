@@ -32,8 +32,8 @@
           libsoup_3
           webkitgtk
           librsvg
-          rustc
           nodejs
+          rustc
           cargo
           cargo-tauri
         ];
