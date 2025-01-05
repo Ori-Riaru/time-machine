@@ -10,19 +10,19 @@ Download the appropriate file for your system from the [releases page](https://g
 
 ## Controls
 
-### Time
+#### Time
 The target time from which an event is chosen.
 
-### Location
+#### Location
 The target coordinates of the location from which an event is chosen.
 
-### Sqwimble
+#### Sqwimble
 The allowed range in years from which an event is considered valid.
 
-### Deterministic
+#### Deterministic
 Determines whether Time Machine will always choose the closest event to the target or a random valid event.
 
-### Assume Form
+#### Assume Form
 Determines if Time Machine will change the desktop background to the image of the event.
 
 ## Future Plans
