@@ -124,9 +124,8 @@ async function loadingComplete(
   let event_info = await eventPromise;
   localStorage.setItem("event", event_info);
 
-
   if (settings.assume === true) {
-    await setWallpaper(JSON.parse(event_info).path);  
+    await setWallpaper(JSON.parse(event_info).path);
   }
 
   window.location.href = "result.html";
@@ -136,7 +135,6 @@ window.onload = async () => {
   let travel = Math.floor(Math.random() * 3) + 1;
 
   console.log(travel);
-
 
   let settings = JSON.parse(localStorage.getItem("settings")!);
 
