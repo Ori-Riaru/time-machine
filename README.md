@@ -12,7 +12,7 @@ Download the appropriate file for your system from the [releases page](https://g
 
 ## Controls
 
-`Tip:  Disable Deterministic and maximize sqwimble to get a random event.`
+`Tip: Disable Deterministic and maximize sqwimble to get a random event.`
 
 #### Time
 
