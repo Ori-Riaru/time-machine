@@ -4,13 +4,15 @@ Time Machine V1.3 is a utility for exploring and changing your desktop backgroun
 
 ## Demo
 
-TODO: add demo
+![Demo](./demo.gif)
 
 ## Install
 
 Download the appropriate file for your system from the [releases page](https://github.com/RiaruAzaki/time-machine/releases).
 
 ## Controls
+
+`Tip:  Disable Deterministic and maximize sqwimble to get a random event.`
 
 #### Time
 
