@@ -8,7 +8,7 @@ Time Machine V1.3 is a utility for exploring and changing your desktop backgroun
 
 ## Install
 
-Download the appropriate file for your system from the [releases page](https://github.com/RiaruAzaki/time-machine/releases).
+[releases page](https://github.com/RiaruAzaki/time-machine/releases).
 
 ## Controls
 
