@@ -4,7 +4,7 @@ Time Machine V1.3 is a utility for exploring and changing your desktop backgroun
 
 ## Demo
 
-![Demo](./demo.gif)
+![Demo](./.github/demo.gif)
 
 ## Install
 
