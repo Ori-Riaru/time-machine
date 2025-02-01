@@ -1,6 +1,6 @@
 # Time Machine v1.3
 
-Time Machine V1.3 is a utility for exploring and changing your desktop background to images of historical events. It is based on an [image from u/Wurstpunkt](https://www.reddit.com/r/thomastheplankengine/comments/12hnk37/in_a_dream_i_had_a_software_that_allowed_me_to/) on reddit.
+Time Machine V1.3 is a utility for changing your desktop background and exploring historical events. It is based on an [image create by u/Wurstpunkt](https://www.reddit.com/r/thomastheplankengine/comments/12hnk37/in_a_dream_i_had_a_software_that_allowed_me_to/) on reddit.
 
 ## Demo
 
