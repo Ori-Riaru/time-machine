@@ -36,4 +36,4 @@ Determines if Time Machine will change the desktop background to the image of th
 
 ## Future Plans
 
-Currently adding event times, locations, and descriptions is very time-consuming. A script to automatically scrape event this info from wikipedia would be useful.
+Currently adding event times, locations, and descriptions is very time-consuming. A script to automatically scrape event info from wikipedia would be useful.
